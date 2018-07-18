@@ -1,10 +1,10 @@
 {
 	"db": {
-		"username": "<MongoDBUsername>",
-		"password": "<MongoDBPassword>",
-		"host": "<MongoDBHost>",
-		"port": "<MongoDBPort>",
-		"name": "<MongoDBName>"
+		"username": "admin",
+		"password": "admin",
+		"host": "localhost",
+		"port": "localhost",
+		"name": "chatdata"
 	},
 	"sessionSecret": "<RandomString>",
 	"facebook": {
